@@ -39,6 +39,6 @@
 # 第９条（お問い合わせ窓口）
 本ポリシーに関するお問い合わせは、下記の窓口までお願いいたします。
 
-Eメールアドレス：　menomoto33@ybb.ne.jp
+Eメールアドレス：　https://twitter.com/cvs_new_item?lang=ja
 
 以上
